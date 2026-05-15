@@ -1,0 +1,6 @@
+mcp==1.27.0
+psycopg2==2.9.12
+pgvector==0.4.2
+sentence-transformers==5.4.1
+python-dotenv==1.2.2
+yoyo-migrations==9.0.0
